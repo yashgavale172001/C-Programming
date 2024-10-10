@@ -1,0 +1,3 @@
+Technologies such as blockchain and machine learning (ML), which are showing tremendous development and potential in their respective fields, can be utilized in the educational discipline.
+In these system we are using  blockchain as a permanent record book that has all transactions listed in sequential order.
+Similarly we are also using the machine learning technology(ML) , the main purpose of ML is to predict the future occurrence, based on past data. Use of machine learning in this system is to predict the academic performance of students and their achievements .
