@@ -1,0 +1,5 @@
+IBM in collaboration with Twiga  Foods launched a blockchain-based micro-financing strategy for food vendors. Where they have successfully implemented some ML techniques. where purchased data using blockchain from mobile devices is processed using ML techniques to determine credit scores & predict the creditworthiness of different users .
+Porsche, a popular car manufacturing company, is one of those early adopters of technology where ML and BT are integrated to improve automobile capabilities and safety.
+Some other companies related to the food industries like Unilever and Nestlé are using blockchain and ML to deal with food disasters like wastage and contamination of food to maintain their supply chain in an efficient way.
+
+
